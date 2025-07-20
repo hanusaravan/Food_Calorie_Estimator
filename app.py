@@ -42,7 +42,6 @@ def load_model():
 
 model = load_model()
 
-# Rest of your app code remains the same...
 transform = transforms.Compose([
     transforms.Resize((224, 224)),
     transforms.ToTensor(),
