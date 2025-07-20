@@ -1,12 +1,9 @@
 🥗 Calorie & Macronutrient Estimator
-
 Calorie & Macronutrient Estimator is a deep learning-based tool that estimates calories, carbohydrates, proteins, and fats from an uploaded food image.
-
 Built with PyTorch and Streamlit, this project combines computer vision and nutrition data to provide real-time predictions for food analysis.
 
 
 🚀 Features
-
 - 📸 Upload a food image
 - 🔍 Predicts:
   - Calories
@@ -19,7 +16,6 @@ Built with PyTorch and Streamlit, this project combines computer vision and nutr
 
 
 🛠️ Tech Stack
-
 - Python
 - PyTorch
 - Streamlit
