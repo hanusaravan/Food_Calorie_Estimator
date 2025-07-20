@@ -42,9 +42,3 @@ pip install -r requirements.txt
 
 # Run Streamlit app
 streamlit run app.py
-
-📸 Example Outputs
-Upload a food image, and get estimated:
-![ChickenCurry](ChickenCurryeg1.jpg)
-![ChocolateMousse](ChocolateMouseeg2.jpg)
-
